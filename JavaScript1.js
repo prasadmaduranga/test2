@@ -5,7 +5,7 @@ alert("Number is " + iput);
 
 
 
-document.write("Prasad Maduranga Hettiarachchi");
+document.write("Prasad  Hettiarachchi");
 
 
 
